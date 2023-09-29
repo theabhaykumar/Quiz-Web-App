@@ -37,12 +37,12 @@ const quizData = [
     {
       question: 'Who is the current PM of India?',
       options: [
-        'Sonia Gandhi',
+        'Narendra Modi',
         'Arvind Kejriwal',
         'Rahul Gandhi',
         'Manmohan Singh',
       ],
-      answer: 'Leonardo da Vinci',
+      answer: 'Narendra Modi',
     },
     {
       question: 'Which planet is known as the Red Planet?',
