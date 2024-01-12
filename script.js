@@ -35,14 +35,14 @@ const quizData = [
       answer: 'Au',
     },
     {
-      question: 'Who is the current PM of India?',
+      question: 'Who was the first PM of India?',
       options: [
         'Narendra Modi',
-        'Arvind Kejriwal',
-        'Rahul Gandhi',
+        'Jawaharlal Nehru',
+        'Atal Bihari Vajpayee',
         'Manmohan Singh',
       ],
-      answer: 'Narendra Modi',
+      answer: 'Jawaharlal Nehru',
     },
     {
       question: 'Which planet is known as the Red Planet?',
